@@ -1,3 +1,5 @@
+Author: Daniel Zelalme
+Id: Atr/2026/08
 # mini-dictionary
 This is a client server architecture.
 This a demo dictionary app with my orginal code.
